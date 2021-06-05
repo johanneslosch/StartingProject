@@ -11,7 +11,7 @@ sp <name> [OPTIONAL <repository url>]
 ```
 
 ## Download
-You can download this script [here]()
+You can download this script [here](https://github.com/johanneslosch/StartingProject/archive/refs/tags/1.0.zip)
 If you want you can also review the code on [GitHub](https://github.com/johanneslosch/StartingProject)
 
 ### Installation
